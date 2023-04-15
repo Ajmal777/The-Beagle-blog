@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-family: sans-serif;
+    padding: 10px;
+}
+  
+.top{
+    border: 1px solid black;
+    padding: 15px;
+}
+  
+.top h1{
+    margin: 0px;
+}
+  
+h1, h2{
+    font-weight: 700;
+    text-decoration: underline;
+}
+  
+li{
+    line-height: 1.5em;
+}
+  
+ol{
+    padding-left: 20px;
+}
+  
+a{
+    color: black;
+    text-decoration-color: black;
+}
+  
+  
